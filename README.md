@@ -1,7 +1,7 @@
 MODX Extras Best Practices
 ==========================
 
-## Overview
+# Overview
 
 
 ## How to contribute
