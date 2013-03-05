@@ -3,6 +3,8 @@ MODX Extras Best Practices
 
 ## Overview
 
+Link to [somewhere](README), [an anchor](#anchor) and [external](https://www.markhamstra.com)
+
 
 ## How to contribute
 
